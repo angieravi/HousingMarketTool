@@ -1,0 +1,35 @@
+/* frontend/styles/Navbar.css */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #333;
+    color: white;
+  }
+  
+  .logo {
+    width: 150px;
+  }
+  
+  .nav-links {
+    display: flex;
+    list-style: none;
+  }
+  
+  .nav-links li {
+    margin-left: 20px;
+  }
+  
+  .nav-links a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .search-bar {
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+  }
+  
