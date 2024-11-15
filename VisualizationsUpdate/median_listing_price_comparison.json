@@ -1,0 +1,3513 @@
+[
+    {
+        "region": "United States",
+        "time_series": [
+            {
+                "date": "2018-03-31",
+                "median_price": 263267.0
+            },
+            {
+                "date": "2018-04-30",
+                "median_price": 271267.0
+            },
+            {
+                "date": "2018-05-31",
+                "median_price": 276633.0
+            },
+            {
+                "date": "2018-06-30",
+                "median_price": 280000.0
+            },
+            {
+                "date": "2018-07-31",
+                "median_price": 280300.0
+            },
+            {
+                "date": "2018-08-31",
+                "median_price": 279633.0
+            },
+            {
+                "date": "2018-09-30",
+                "median_price": 279600.0
+            },
+            {
+                "date": "2018-10-31",
+                "median_price": 279300.0
+            },
+            {
+                "date": "2018-11-30",
+                "median_price": 278933.0
+            },
+            {
+                "date": "2018-12-31",
+                "median_price": 277300.0
+            },
+            {
+                "date": "2019-01-31",
+                "median_price": 275967.0
+            },
+            {
+                "date": "2019-02-28",
+                "median_price": 276633.0
+            },
+            {
+                "date": "2019-03-31",
+                "median_price": 281300.0
+            },
+            {
+                "date": "2019-04-30",
+                "median_price": 287967.0
+            },
+            {
+                "date": "2019-05-31",
+                "median_price": 294567.0
+            },
+            {
+                "date": "2019-06-30",
+                "median_price": 297900.0
+            },
+            {
+                "date": "2019-07-31",
+                "median_price": 298900.0
+            },
+            {
+                "date": "2019-08-31",
+                "median_price": 297000.0
+            },
+            {
+                "date": "2019-09-30",
+                "median_price": 294833.0
+            },
+            {
+                "date": "2019-10-31",
+                "median_price": 292133.0
+            },
+            {
+                "date": "2019-11-30",
+                "median_price": 290467.0
+            },
+            {
+                "date": "2019-12-31",
+                "median_price": 287933.0
+            },
+            {
+                "date": "2020-01-31",
+                "median_price": 284933.0
+            },
+            {
+                "date": "2020-02-29",
+                "median_price": 285233.0
+            },
+            {
+                "date": "2020-03-31",
+                "median_price": 289600.0
+            },
+            {
+                "date": "2020-04-30",
+                "median_price": 295633.0
+            },
+            {
+                "date": "2020-05-31",
+                "median_price": 299000.0
+            },
+            {
+                "date": "2020-06-30",
+                "median_price": 303967.0
+            },
+            {
+                "date": "2020-07-31",
+                "median_price": 309300.0
+            },
+            {
+                "date": "2020-08-31",
+                "median_price": 314300.0
+            },
+            {
+                "date": "2020-09-30",
+                "median_price": 315300.0
+            },
+            {
+                "date": "2020-10-31",
+                "median_price": 315300.0
+            },
+            {
+                "date": "2020-11-30",
+                "median_price": 313633.0
+            },
+            {
+                "date": "2020-12-31",
+                "median_price": 309967.0
+            },
+            {
+                "date": "2021-01-31",
+                "median_price": 304967.0
+            },
+            {
+                "date": "2021-02-28",
+                "median_price": 307967.0
+            },
+            {
+                "date": "2021-03-31",
+                "median_price": 314667.0
+            },
+            {
+                "date": "2021-04-30",
+                "median_price": 326333.0
+            },
+            {
+                "date": "2021-05-31",
+                "median_price": 333333.0
+            },
+            {
+                "date": "2021-06-30",
+                "median_price": 339407.0
+            },
+            {
+                "date": "2021-07-31",
+                "median_price": 341073.0
+            },
+            {
+                "date": "2021-08-31",
+                "median_price": 340740.0
+            },
+            {
+                "date": "2021-09-30",
+                "median_price": 339667.0
+            },
+            {
+                "date": "2021-10-31",
+                "median_price": 339633.0
+            },
+            {
+                "date": "2021-11-30",
+                "median_price": 338300.0
+            },
+            {
+                "date": "2021-12-31",
+                "median_price": 333600.0
+            },
+            {
+                "date": "2022-01-31",
+                "median_price": 330300.0
+            },
+            {
+                "date": "2022-02-28",
+                "median_price": 335267.0
+            },
+            {
+                "date": "2022-03-31",
+                "median_price": 346633.0
+            },
+            {
+                "date": "2022-04-30",
+                "median_price": 362967.0
+            },
+            {
+                "date": "2022-05-31",
+                "median_price": 376300.0
+            },
+            {
+                "date": "2022-06-30",
+                "median_price": 387967.0
+            },
+            {
+                "date": "2022-07-31",
+                "median_price": 393300.0
+            },
+            {
+                "date": "2022-08-31",
+                "median_price": 393300.0
+            },
+            {
+                "date": "2022-09-30",
+                "median_price": 391300.0
+            },
+            {
+                "date": "2022-10-31",
+                "median_price": 386633.0
+            },
+            {
+                "date": "2022-11-30",
+                "median_price": 381667.0
+            },
+            {
+                "date": "2022-12-31",
+                "median_price": 375733.0
+            },
+            {
+                "date": "2023-01-31",
+                "median_price": 371900.0
+            },
+            {
+                "date": "2023-02-28",
+                "median_price": 371900.0
+            },
+            {
+                "date": "2023-03-31",
+                "median_price": 374833.0
+            },
+            {
+                "date": "2023-04-30",
+                "median_price": 383107.0
+            },
+            {
+                "date": "2023-05-31",
+                "median_price": 391107.0
+            },
+            {
+                "date": "2023-06-30",
+                "median_price": 397607.0
+            },
+            {
+                "date": "2023-07-31",
+                "median_price": 399167.0
+            },
+            {
+                "date": "2023-08-31",
+                "median_price": 397833.0
+            },
+            {
+                "date": "2023-09-30",
+                "median_price": 396333.0
+            },
+            {
+                "date": "2023-10-31",
+                "median_price": 393300.0
+            },
+            {
+                "date": "2023-11-30",
+                "median_price": 389967.0
+            },
+            {
+                "date": "2023-12-31",
+                "median_price": 384633.0
+            },
+            {
+                "date": "2024-01-31",
+                "median_price": 381000.0
+            },
+            {
+                "date": "2024-02-29",
+                "median_price": 381000.0
+            },
+            {
+                "date": "2024-03-31",
+                "median_price": 386000.0
+            },
+            {
+                "date": "2024-04-30",
+                "median_price": 392967.0
+            },
+            {
+                "date": "2024-05-31",
+                "median_price": 400600.0
+            },
+            {
+                "date": "2024-06-30",
+                "median_price": 405900.0
+            },
+            {
+                "date": "2024-07-31",
+                "median_price": 405933.0
+            },
+            {
+                "date": "2024-08-31",
+                "median_price": 403267.0
+            },
+            {
+                "date": "2024-09-30",
+                "median_price": 399933.0
+            }
+        ]
+    },
+    {
+        "region": "Vineyard Haven, MA",
+        "time_series": [
+            {
+                "date": "2018-03-31",
+                "median_price": 1112500.0
+            },
+            {
+                "date": "2018-04-30",
+                "median_price": 1131667.0
+            },
+            {
+                "date": "2018-05-31",
+                "median_price": 1197333.0
+            },
+            {
+                "date": "2018-06-30",
+                "median_price": 1273167.0
+            },
+            {
+                "date": "2018-07-31",
+                "median_price": 1344000.0
+            },
+            {
+                "date": "2018-08-31",
+                "median_price": 1386667.0
+            },
+            {
+                "date": "2018-09-30",
+                "median_price": 1406667.0
+            },
+            {
+                "date": "2018-10-31",
+                "median_price": 1395667.0
+            },
+            {
+                "date": "2018-11-30",
+                "median_price": 1351500.0
+            },
+            {
+                "date": "2018-12-31",
+                "median_price": 1316500.0
+            },
+            {
+                "date": "2019-01-31",
+                "median_price": 1299167.0
+            },
+            {
+                "date": "2019-02-28",
+                "median_price": 1300000.0
+            },
+            {
+                "date": "2019-03-31",
+                "median_price": 1296667.0
+            },
+            {
+                "date": "2019-04-30",
+                "median_price": 1291667.0
+            },
+            {
+                "date": "2019-05-31",
+                "median_price": 1325667.0
+            },
+            {
+                "date": "2019-06-30",
+                "median_price": 1362333.0
+            },
+            {
+                "date": "2019-07-31",
+                "median_price": 1409667.0
+            },
+            {
+                "date": "2019-08-31",
+                "median_price": 1452333.0
+            },
+            {
+                "date": "2019-09-30",
+                "median_price": 1487000.0
+            },
+            {
+                "date": "2019-10-31",
+                "median_price": 1487167.0
+            },
+            {
+                "date": "2019-11-30",
+                "median_price": 1475500.0
+            },
+            {
+                "date": "2019-12-31",
+                "median_price": 1475833.0
+            },
+            {
+                "date": "2020-01-31",
+                "median_price": 1530000.0
+            },
+            {
+                "date": "2020-02-29",
+                "median_price": 1575000.0
+            },
+            {
+                "date": "2020-03-31",
+                "median_price": 1607333.0
+            },
+            {
+                "date": "2020-04-30",
+                "median_price": 1605667.0
+            },
+            {
+                "date": "2020-05-31",
+                "median_price": 1563667.0
+            },
+            {
+                "date": "2020-06-30",
+                "median_price": 1517833.0
+            },
+            {
+                "date": "2020-07-31",
+                "median_price": 1477833.0
+            },
+            {
+                "date": "2020-08-31",
+                "median_price": 1443167.0
+            },
+            {
+                "date": "2020-09-30",
+                "median_price": 1455667.0
+            },
+            {
+                "date": "2020-10-31",
+                "median_price": 1455667.0
+            },
+            {
+                "date": "2020-11-30",
+                "median_price": 1482333.0
+            },
+            {
+                "date": "2020-12-31",
+                "median_price": 1499167.0
+            },
+            {
+                "date": "2021-01-31",
+                "median_price": 1532500.0
+            },
+            {
+                "date": "2021-02-28",
+                "median_price": 1565833.0
+            },
+            {
+                "date": "2021-03-31",
+                "median_price": 1681667.0
+            },
+            {
+                "date": "2021-04-30",
+                "median_price": 1740000.0
+            },
+            {
+                "date": "2021-05-31",
+                "median_price": 1830000.0
+            },
+            {
+                "date": "2021-06-30",
+                "median_price": 1773333.0
+            },
+            {
+                "date": "2021-07-31",
+                "median_price": 1772333.0
+            },
+            {
+                "date": "2021-08-31",
+                "median_price": 1747333.0
+            },
+            {
+                "date": "2021-09-30",
+                "median_price": 1805500.0
+            },
+            {
+                "date": "2021-10-31",
+                "median_price": 1889000.0
+            },
+            {
+                "date": "2021-11-30",
+                "median_price": 1940667.0
+            },
+            {
+                "date": "2021-12-31",
+                "median_price": 1973167.0
+            },
+            {
+                "date": "2022-01-31",
+                "median_price": 1982333.0
+            },
+            {
+                "date": "2022-02-28",
+                "median_price": 2154833.0
+            },
+            {
+                "date": "2022-03-31",
+                "median_price": 2380667.0
+            },
+            {
+                "date": "2022-04-30",
+                "median_price": 2589000.0
+            },
+            {
+                "date": "2022-05-31",
+                "median_price": 2673167.0
+            },
+            {
+                "date": "2022-06-30",
+                "median_price": 2590000.0
+            },
+            {
+                "date": "2022-07-31",
+                "median_price": 2406667.0
+            },
+            {
+                "date": "2022-08-31",
+                "median_price": 2291667.0
+            },
+            {
+                "date": "2022-09-30",
+                "median_price": 2250000.0
+            },
+            {
+                "date": "2022-10-31",
+                "median_price": 2275000.0
+            },
+            {
+                "date": "2022-11-30",
+                "median_price": 2216667.0
+            },
+            {
+                "date": "2022-12-31",
+                "median_price": 2249167.0
+            },
+            {
+                "date": "2023-01-31",
+                "median_price": 2257500.0
+            },
+            {
+                "date": "2023-02-28",
+                "median_price": 2228167.0
+            },
+            {
+                "date": "2023-03-31",
+                "median_price": 2094000.0
+            },
+            {
+                "date": "2023-04-30",
+                "median_price": 2027000.0
+            },
+            {
+                "date": "2023-05-31",
+                "median_price": 2073000.0
+            },
+            {
+                "date": "2023-06-30",
+                "median_price": 2191333.0
+            },
+            {
+                "date": "2023-07-31",
+                "median_price": 2325000.0
+            },
+            {
+                "date": "2023-08-31",
+                "median_price": 2366667.0
+            },
+            {
+                "date": "2023-09-30",
+                "median_price": 2381667.0
+            },
+            {
+                "date": "2023-10-31",
+                "median_price": 2373333.0
+            },
+            {
+                "date": "2023-11-30",
+                "median_price": 2364000.0
+            },
+            {
+                "date": "2023-12-31",
+                "median_price": 2339667.0
+            },
+            {
+                "date": "2024-01-31",
+                "median_price": 2289667.0
+            },
+            {
+                "date": "2024-02-29",
+                "median_price": 2248167.0
+            },
+            {
+                "date": "2024-03-31",
+                "median_price": 2149167.0
+            },
+            {
+                "date": "2024-04-30",
+                "median_price": 2073833.0
+            },
+            {
+                "date": "2024-05-31",
+                "median_price": 2036333.0
+            },
+            {
+                "date": "2024-06-30",
+                "median_price": 2026333.0
+            },
+            {
+                "date": "2024-07-31",
+                "median_price": 2014167.0
+            },
+            {
+                "date": "2024-08-31",
+                "median_price": 1979167.0
+            },
+            {
+                "date": "2024-09-30",
+                "median_price": 1972500.0
+            }
+        ]
+    },
+    {
+        "region": "Edwards, CO",
+        "time_series": [
+            {
+                "date": "2018-03-31",
+                "median_price": 1380500.0
+            },
+            {
+                "date": "2018-04-30",
+                "median_price": 1297333.0
+            },
+            {
+                "date": "2018-05-31",
+                "median_price": 1215000.0
+            },
+            {
+                "date": "2018-06-30",
+                "median_price": 1166667.0
+            },
+            {
+                "date": "2018-07-31",
+                "median_price": 1150000.0
+            },
+            {
+                "date": "2018-08-31",
+                "median_price": 1157317.0
+            },
+            {
+                "date": "2018-09-30",
+                "median_price": 1172317.0
+            },
+            {
+                "date": "2018-10-31",
+                "median_price": 1188983.0
+            },
+            {
+                "date": "2018-11-30",
+                "median_price": 1213000.0
+            },
+            {
+                "date": "2018-12-31",
+                "median_price": 1263817.0
+            },
+            {
+                "date": "2019-01-31",
+                "median_price": 1322150.0
+            },
+            {
+                "date": "2019-02-28",
+                "median_price": 1369467.0
+            },
+            {
+                "date": "2019-03-31",
+                "median_price": 1378650.0
+            },
+            {
+                "date": "2019-04-30",
+                "median_price": 1346983.0
+            },
+            {
+                "date": "2019-05-31",
+                "median_price": 1301667.0
+            },
+            {
+                "date": "2019-06-30",
+                "median_price": 1268333.0
+            },
+            {
+                "date": "2019-07-31",
+                "median_price": 1271333.0
+            },
+            {
+                "date": "2019-08-31",
+                "median_price": 1279667.0
+            },
+            {
+                "date": "2019-09-30",
+                "median_price": 1276500.0
+            },
+            {
+                "date": "2019-10-31",
+                "median_price": 1268667.0
+            },
+            {
+                "date": "2019-11-30",
+                "median_price": 1276833.0
+            },
+            {
+                "date": "2019-12-31",
+                "median_price": 1320000.0
+            },
+            {
+                "date": "2020-01-31",
+                "median_price": 1363983.0
+            },
+            {
+                "date": "2020-02-29",
+                "median_price": 1364150.0
+            },
+            {
+                "date": "2020-03-31",
+                "median_price": 1299067.0
+            },
+            {
+                "date": "2020-04-30",
+                "median_price": 1231583.0
+            },
+            {
+                "date": "2020-05-31",
+                "median_price": 1123250.0
+            },
+            {
+                "date": "2020-06-30",
+                "median_price": 1106667.0
+            },
+            {
+                "date": "2020-07-31",
+                "median_price": 1120729.0
+            },
+            {
+                "date": "2020-08-31",
+                "median_price": 1229063.0
+            },
+            {
+                "date": "2020-09-30",
+                "median_price": 1270729.0
+            },
+            {
+                "date": "2020-10-31",
+                "median_price": 1279000.0
+            },
+            {
+                "date": "2020-11-30",
+                "median_price": 1310667.0
+            },
+            {
+                "date": "2020-12-31",
+                "median_price": 1480667.0
+            },
+            {
+                "date": "2021-01-31",
+                "median_price": 1300000.0
+            },
+            {
+                "date": "2021-03-31",
+                "median_price": 941875.0
+            },
+            {
+                "date": "2021-05-31",
+                "median_price": 1278542.0
+            },
+            {
+                "date": "2021-06-30",
+                "median_price": 1181667.0
+            },
+            {
+                "date": "2021-07-31",
+                "median_price": 1169167.0
+            },
+            {
+                "date": "2021-08-31",
+                "median_price": 1167500.0
+            },
+            {
+                "date": "2021-09-30",
+                "median_price": 1137370.0
+            },
+            {
+                "date": "2021-10-31",
+                "median_price": 1066537.0
+            },
+            {
+                "date": "2021-11-30",
+                "median_price": 1044870.0
+            },
+            {
+                "date": "2021-12-31",
+                "median_price": 1036333.0
+            },
+            {
+                "date": "2022-01-31",
+                "median_price": 1018000.0
+            },
+            {
+                "date": "2022-02-28",
+                "median_price": 1014500.0
+            },
+            {
+                "date": "2022-03-31",
+                "median_price": 986333.0
+            },
+            {
+                "date": "2022-04-30",
+                "median_price": 996333.0
+            },
+            {
+                "date": "2022-05-31",
+                "median_price": 1039833.0
+            },
+            {
+                "date": "2022-06-30",
+                "median_price": 1098333.0
+            },
+            {
+                "date": "2022-07-31",
+                "median_price": 1206667.0
+            },
+            {
+                "date": "2022-08-31",
+                "median_price": 1297500.0
+            },
+            {
+                "date": "2022-09-30",
+                "median_price": 1389167.0
+            },
+            {
+                "date": "2022-10-31",
+                "median_price": 1439167.0
+            },
+            {
+                "date": "2022-11-30",
+                "median_price": 1450000.0
+            },
+            {
+                "date": "2022-12-31",
+                "median_price": 1530000.0
+            },
+            {
+                "date": "2023-01-31",
+                "median_price": 1528333.0
+            },
+            {
+                "date": "2023-02-28",
+                "median_price": 1461667.0
+            },
+            {
+                "date": "2023-03-31",
+                "median_price": 1364667.0
+            },
+            {
+                "date": "2023-04-30",
+                "median_price": 1466333.0
+            },
+            {
+                "date": "2023-05-31",
+                "median_price": 1731333.0
+            },
+            {
+                "date": "2023-06-30",
+                "median_price": 1965000.0
+            },
+            {
+                "date": "2023-07-31",
+                "median_price": 2010833.0
+            },
+            {
+                "date": "2023-08-31",
+                "median_price": 1978833.0
+            },
+            {
+                "date": "2023-09-30",
+                "median_price": 1910500.0
+            },
+            {
+                "date": "2023-10-31",
+                "median_price": 1881333.0
+            },
+            {
+                "date": "2023-11-30",
+                "median_price": 1847500.0
+            },
+            {
+                "date": "2023-12-31",
+                "median_price": 1833333.0
+            },
+            {
+                "date": "2024-01-31",
+                "median_price": 1850000.0
+            },
+            {
+                "date": "2024-02-29",
+                "median_price": 1895000.0
+            },
+            {
+                "date": "2024-03-31",
+                "median_price": 1927500.0
+            },
+            {
+                "date": "2024-04-30",
+                "median_price": 1885833.0
+            },
+            {
+                "date": "2024-05-31",
+                "median_price": 1832500.0
+            },
+            {
+                "date": "2024-06-30",
+                "median_price": 1840833.0
+            },
+            {
+                "date": "2024-07-31",
+                "median_price": 1865833.0
+            },
+            {
+                "date": "2024-08-31",
+                "median_price": 1906667.0
+            },
+            {
+                "date": "2024-09-30",
+                "median_price": 1880000.0
+            }
+        ]
+    },
+    {
+        "region": "Santa Maria, CA",
+        "time_series": [
+            {
+                "date": "2018-03-31",
+                "median_price": 961000.0
+            },
+            {
+                "date": "2018-04-30",
+                "median_price": 986333.0
+            },
+            {
+                "date": "2018-05-31",
+                "median_price": 1006333.0
+            },
+            {
+                "date": "2018-06-30",
+                "median_price": 1040667.0
+            },
+            {
+                "date": "2018-07-31",
+                "median_price": 1048667.0
+            },
+            {
+                "date": "2018-08-31",
+                "median_price": 1045333.0
+            },
+            {
+                "date": "2018-09-30",
+                "median_price": 1033000.0
+            },
+            {
+                "date": "2018-10-31",
+                "median_price": 1008333.0
+            },
+            {
+                "date": "2018-11-30",
+                "median_price": 999000.0
+            },
+            {
+                "date": "2018-12-31",
+                "median_price": 982167.0
+            },
+            {
+                "date": "2019-01-31",
+                "median_price": 964667.0
+            },
+            {
+                "date": "2019-02-28",
+                "median_price": 956167.0
+            },
+            {
+                "date": "2019-03-31",
+                "median_price": 953167.0
+            },
+            {
+                "date": "2019-04-30",
+                "median_price": 977333.0
+            },
+            {
+                "date": "2019-05-31",
+                "median_price": 986213.0
+            },
+            {
+                "date": "2019-06-30",
+                "median_price": 996046.0
+            },
+            {
+                "date": "2019-07-31",
+                "median_price": 1030713.0
+            },
+            {
+                "date": "2019-08-31",
+                "median_price": 1072167.0
+            },
+            {
+                "date": "2019-09-30",
+                "median_price": 1144667.0
+            },
+            {
+                "date": "2019-10-31",
+                "median_price": 1180667.0
+            },
+            {
+                "date": "2019-11-30",
+                "median_price": 1205333.0
+            },
+            {
+                "date": "2019-12-31",
+                "median_price": 1223500.0
+            },
+            {
+                "date": "2020-01-31",
+                "median_price": 1220833.0
+            },
+            {
+                "date": "2020-02-29",
+                "median_price": 1241833.0
+            },
+            {
+                "date": "2020-03-31",
+                "median_price": 1243500.0
+            },
+            {
+                "date": "2020-04-30",
+                "median_price": 1243500.0
+            },
+            {
+                "date": "2020-05-31",
+                "median_price": 1222000.0
+            },
+            {
+                "date": "2020-06-30",
+                "median_price": 1217000.0
+            },
+            {
+                "date": "2020-07-31",
+                "median_price": 1249000.0
+            },
+            {
+                "date": "2020-08-31",
+                "median_price": 1284000.0
+            },
+            {
+                "date": "2020-09-30",
+                "median_price": 1330000.0
+            },
+            {
+                "date": "2020-10-31",
+                "median_price": 1330000.0
+            },
+            {
+                "date": "2020-11-30",
+                "median_price": 1328333.0
+            },
+            {
+                "date": "2020-12-31",
+                "median_price": 1296333.0
+            },
+            {
+                "date": "2021-01-31",
+                "median_price": 1297667.0
+            },
+            {
+                "date": "2021-02-28",
+                "median_price": 1232667.0
+            },
+            {
+                "date": "2021-03-31",
+                "median_price": 1216333.0
+            },
+            {
+                "date": "2021-04-30",
+                "median_price": 1175000.0
+            },
+            {
+                "date": "2021-05-31",
+                "median_price": 1162587.0
+            },
+            {
+                "date": "2021-06-30",
+                "median_price": 1079221.0
+            },
+            {
+                "date": "2021-07-31",
+                "median_price": 1045887.0
+            },
+            {
+                "date": "2021-08-31",
+                "median_price": 1017467.0
+            },
+            {
+                "date": "2021-09-30",
+                "median_price": 1034167.0
+            },
+            {
+                "date": "2021-10-31",
+                "median_price": 1042167.0
+            },
+            {
+                "date": "2021-11-30",
+                "median_price": 1049667.0
+            },
+            {
+                "date": "2021-12-31",
+                "median_price": 999500.0
+            },
+            {
+                "date": "2022-01-31",
+                "median_price": 931500.0
+            },
+            {
+                "date": "2022-02-28",
+                "median_price": 956500.0
+            },
+            {
+                "date": "2022-03-31",
+                "median_price": 949667.0
+            },
+            {
+                "date": "2022-04-30",
+                "median_price": 951317.0
+            },
+            {
+                "date": "2022-05-31",
+                "median_price": 957983.0
+            },
+            {
+                "date": "2022-06-30",
+                "median_price": 1048317.0
+            },
+            {
+                "date": "2022-07-31",
+                "median_price": 1080000.0
+            },
+            {
+                "date": "2022-08-31",
+                "median_price": 1038333.0
+            },
+            {
+                "date": "2022-09-30",
+                "median_price": 976667.0
+            },
+            {
+                "date": "2022-10-31",
+                "median_price": 941667.0
+            },
+            {
+                "date": "2022-11-30",
+                "median_price": 938167.0
+            },
+            {
+                "date": "2022-12-31",
+                "median_price": 936167.0
+            },
+            {
+                "date": "2023-01-31",
+                "median_price": 956167.0
+            },
+            {
+                "date": "2023-02-28",
+                "median_price": 1002000.0
+            },
+            {
+                "date": "2023-03-31",
+                "median_price": 1044000.0
+            },
+            {
+                "date": "2023-04-30",
+                "median_price": 1146667.0
+            },
+            {
+                "date": "2023-05-31",
+                "median_price": 1230833.0
+            },
+            {
+                "date": "2023-06-30",
+                "median_price": 1334917.0
+            },
+            {
+                "date": "2023-07-31",
+                "median_price": 1415083.0
+            },
+            {
+                "date": "2023-08-31",
+                "median_price": 1455083.0
+            },
+            {
+                "date": "2023-09-30",
+                "median_price": 1469000.0
+            },
+            {
+                "date": "2023-10-31",
+                "median_price": 1467833.0
+            },
+            {
+                "date": "2023-11-30",
+                "median_price": 1461333.0
+            },
+            {
+                "date": "2023-12-31",
+                "median_price": 1465000.0
+            },
+            {
+                "date": "2024-01-31",
+                "median_price": 1431667.0
+            },
+            {
+                "date": "2024-02-29",
+                "median_price": 1446667.0
+            },
+            {
+                "date": "2024-03-31",
+                "median_price": 1490000.0
+            },
+            {
+                "date": "2024-04-30",
+                "median_price": 1525000.0
+            },
+            {
+                "date": "2024-05-31",
+                "median_price": 1509833.0
+            },
+            {
+                "date": "2024-06-30",
+                "median_price": 1466500.0
+            },
+            {
+                "date": "2024-07-31",
+                "median_price": 1466167.0
+            },
+            {
+                "date": "2024-08-31",
+                "median_price": 1515833.0
+            },
+            {
+                "date": "2024-09-30",
+                "median_price": 1582500.0
+            }
+        ]
+    },
+    {
+        "region": "Glenwood Springs, CO",
+        "time_series": [
+            {
+                "date": "2018-03-31",
+                "median_price": 878817.0
+            },
+            {
+                "date": "2018-04-30",
+                "median_price": 845333.0
+            },
+            {
+                "date": "2018-05-31",
+                "median_price": 764500.0
+            },
+            {
+                "date": "2018-06-30",
+                "median_price": 728333.0
+            },
+            {
+                "date": "2018-07-31",
+                "median_price": 731833.0
+            },
+            {
+                "date": "2018-08-31",
+                "median_price": 773667.0
+            },
+            {
+                "date": "2018-09-30",
+                "median_price": 811333.0
+            },
+            {
+                "date": "2018-10-31",
+                "median_price": 823000.0
+            },
+            {
+                "date": "2018-11-30",
+                "median_price": 821000.0
+            },
+            {
+                "date": "2018-12-31",
+                "median_price": 850500.0
+            },
+            {
+                "date": "2019-01-31",
+                "median_price": 902167.0
+            },
+            {
+                "date": "2019-02-28",
+                "median_price": 948667.0
+            },
+            {
+                "date": "2019-03-31",
+                "median_price": 935167.0
+            },
+            {
+                "date": "2019-04-30",
+                "median_price": 902667.0
+            },
+            {
+                "date": "2019-05-31",
+                "median_price": 860167.0
+            },
+            {
+                "date": "2019-06-30",
+                "median_price": 836167.0
+            },
+            {
+                "date": "2019-07-31",
+                "median_price": 830333.0
+            },
+            {
+                "date": "2019-08-31",
+                "median_price": 835000.0
+            },
+            {
+                "date": "2019-09-30",
+                "median_price": 858333.0
+            },
+            {
+                "date": "2019-10-31",
+                "median_price": 888333.0
+            },
+            {
+                "date": "2019-11-30",
+                "median_price": 931167.0
+            },
+            {
+                "date": "2019-12-31",
+                "median_price": 976167.0
+            },
+            {
+                "date": "2020-01-31",
+                "median_price": 1000667.0
+            },
+            {
+                "date": "2020-02-29",
+                "median_price": 1042833.0
+            },
+            {
+                "date": "2020-03-31",
+                "median_price": 1029500.0
+            },
+            {
+                "date": "2020-04-30",
+                "median_price": 995500.0
+            },
+            {
+                "date": "2020-05-31",
+                "median_price": 895167.0
+            },
+            {
+                "date": "2020-06-30",
+                "median_price": 840167.0
+            },
+            {
+                "date": "2020-07-31",
+                "median_price": 866333.0
+            },
+            {
+                "date": "2020-08-31",
+                "median_price": 926333.0
+            },
+            {
+                "date": "2020-09-30",
+                "median_price": 981333.0
+            },
+            {
+                "date": "2020-10-31",
+                "median_price": 988000.0
+            },
+            {
+                "date": "2020-11-30",
+                "median_price": 970000.0
+            },
+            {
+                "date": "2020-12-31",
+                "median_price": 956667.0
+            },
+            {
+                "date": "2021-01-31",
+                "median_price": 875000.0
+            },
+            {
+                "date": "2021-02-28",
+                "median_price": 766083.0
+            },
+            {
+                "date": "2021-03-31",
+                "median_price": 757750.0
+            },
+            {
+                "date": "2021-04-30",
+                "median_price": 785750.0
+            },
+            {
+                "date": "2021-05-31",
+                "median_price": 836333.0
+            },
+            {
+                "date": "2021-06-30",
+                "median_price": 811000.0
+            },
+            {
+                "date": "2021-07-31",
+                "median_price": 816092.0
+            },
+            {
+                "date": "2021-08-31",
+                "median_price": 828426.0
+            },
+            {
+                "date": "2021-09-30",
+                "median_price": 798726.0
+            },
+            {
+                "date": "2021-10-31",
+                "median_price": 763967.0
+            },
+            {
+                "date": "2021-11-30",
+                "median_price": 733967.0
+            },
+            {
+                "date": "2021-12-31",
+                "median_price": 747667.0
+            },
+            {
+                "date": "2022-01-31",
+                "median_price": 740500.0
+            },
+            {
+                "date": "2022-02-28",
+                "median_price": 792667.0
+            },
+            {
+                "date": "2022-03-31",
+                "median_price": 849833.0
+            },
+            {
+                "date": "2022-04-30",
+                "median_price": 858667.0
+            },
+            {
+                "date": "2022-05-31",
+                "median_price": 874150.0
+            },
+            {
+                "date": "2022-06-30",
+                "median_price": 883317.0
+            },
+            {
+                "date": "2022-07-31",
+                "median_price": 919650.0
+            },
+            {
+                "date": "2022-08-31",
+                "median_price": 1003000.0
+            },
+            {
+                "date": "2022-09-30",
+                "median_price": 1035083.0
+            },
+            {
+                "date": "2022-10-31",
+                "median_price": 1148750.0
+            },
+            {
+                "date": "2022-11-30",
+                "median_price": 1182083.0
+            },
+            {
+                "date": "2022-12-31",
+                "median_price": 1277333.0
+            },
+            {
+                "date": "2023-01-31",
+                "median_price": 1340333.0
+            },
+            {
+                "date": "2023-02-28",
+                "median_price": 1390333.0
+            },
+            {
+                "date": "2023-03-31",
+                "median_price": 1428833.0
+            },
+            {
+                "date": "2023-04-30",
+                "median_price": 1365500.0
+            },
+            {
+                "date": "2023-05-31",
+                "median_price": 1298833.0
+            },
+            {
+                "date": "2023-06-30",
+                "median_price": 1270500.0
+            },
+            {
+                "date": "2023-07-31",
+                "median_price": 1320833.0
+            },
+            {
+                "date": "2023-08-31",
+                "median_price": 1380833.0
+            },
+            {
+                "date": "2023-09-30",
+                "median_price": 1376333.0
+            },
+            {
+                "date": "2023-10-31",
+                "median_price": 1358833.0
+            },
+            {
+                "date": "2023-11-30",
+                "median_price": 1397167.0
+            },
+            {
+                "date": "2023-12-31",
+                "median_price": 1497333.0
+            },
+            {
+                "date": "2024-01-31",
+                "median_price": 1563167.0
+            },
+            {
+                "date": "2024-02-29",
+                "median_price": 1481500.0
+            },
+            {
+                "date": "2024-03-31",
+                "median_price": 1378000.0
+            },
+            {
+                "date": "2024-04-30",
+                "median_price": 1344667.0
+            },
+            {
+                "date": "2024-05-31",
+                "median_price": 1421333.0
+            },
+            {
+                "date": "2024-06-30",
+                "median_price": 1475000.0
+            },
+            {
+                "date": "2024-07-31",
+                "median_price": 1480833.0
+            },
+            {
+                "date": "2024-08-31",
+                "median_price": 1473333.0
+            },
+            {
+                "date": "2024-09-30",
+                "median_price": 1421667.0
+            }
+        ]
+    },
+    {
+        "region": "San Jose, CA",
+        "time_series": [
+            {
+                "date": "2018-03-31",
+                "median_price": 1122633.0
+            },
+            {
+                "date": "2018-04-30",
+                "median_price": 1171967.0
+            },
+            {
+                "date": "2018-05-31",
+                "median_price": 1190633.0
+            },
+            {
+                "date": "2018-06-30",
+                "median_price": 1198333.0
+            },
+            {
+                "date": "2018-07-31",
+                "median_price": 1195000.0
+            },
+            {
+                "date": "2018-08-31",
+                "median_price": 1170333.0
+            },
+            {
+                "date": "2018-09-30",
+                "median_price": 1150981.0
+            },
+            {
+                "date": "2018-10-31",
+                "median_price": 1121631.0
+            },
+            {
+                "date": "2018-11-30",
+                "median_price": 1102048.0
+            },
+            {
+                "date": "2018-12-31",
+                "median_price": 1055067.0
+            },
+            {
+                "date": "2019-01-31",
+                "median_price": 1038417.0
+            },
+            {
+                "date": "2019-02-28",
+                "median_price": 1051885.0
+            },
+            {
+                "date": "2019-03-31",
+                "median_price": 1101551.0
+            },
+            {
+                "date": "2019-04-30",
+                "median_price": 1143218.0
+            },
+            {
+                "date": "2019-05-31",
+                "median_price": 1167333.0
+            },
+            {
+                "date": "2019-06-30",
+                "median_price": 1167667.0
+            },
+            {
+                "date": "2019-07-31",
+                "median_price": 1142650.0
+            },
+            {
+                "date": "2019-08-31",
+                "median_price": 1115650.0
+            },
+            {
+                "date": "2019-09-30",
+                "median_price": 1099281.0
+            },
+            {
+                "date": "2019-10-31",
+                "median_price": 1098631.0
+            },
+            {
+                "date": "2019-11-30",
+                "median_price": 1082631.0
+            },
+            {
+                "date": "2019-12-31",
+                "median_price": 1049332.0
+            },
+            {
+                "date": "2020-01-31",
+                "median_price": 1046666.0
+            },
+            {
+                "date": "2020-02-29",
+                "median_price": 1082314.0
+            },
+            {
+                "date": "2020-03-31",
+                "median_price": 1147315.0
+            },
+            {
+                "date": "2020-04-30",
+                "median_price": 1183315.0
+            },
+            {
+                "date": "2020-05-31",
+                "median_price": 1197333.0
+            },
+            {
+                "date": "2020-06-30",
+                "median_price": 1198983.0
+            },
+            {
+                "date": "2020-07-31",
+                "median_price": 1199317.0
+            },
+            {
+                "date": "2020-08-31",
+                "median_price": 1199317.0
+            },
+            {
+                "date": "2020-09-30",
+                "median_price": 1199000.0
+            },
+            {
+                "date": "2020-10-31",
+                "median_price": 1199000.0
+            },
+            {
+                "date": "2020-11-30",
+                "median_price": 1199000.0
+            },
+            {
+                "date": "2020-12-31",
+                "median_price": 1195333.0
+            },
+            {
+                "date": "2021-01-31",
+                "median_price": 1194000.0
+            },
+            {
+                "date": "2021-02-28",
+                "median_price": 1194333.0
+            },
+            {
+                "date": "2021-03-31",
+                "median_price": 1214333.0
+            },
+            {
+                "date": "2021-04-30",
+                "median_price": 1233000.0
+            },
+            {
+                "date": "2021-05-31",
+                "median_price": 1258000.0
+            },
+            {
+                "date": "2021-06-30",
+                "median_price": 1271333.0
+            },
+            {
+                "date": "2021-07-31",
+                "median_price": 1271000.0
+            },
+            {
+                "date": "2021-08-31",
+                "median_price": 1262333.0
+            },
+            {
+                "date": "2021-09-30",
+                "median_price": 1249667.0
+            },
+            {
+                "date": "2021-10-31",
+                "median_price": 1249333.0
+            },
+            {
+                "date": "2021-11-30",
+                "median_price": 1232667.0
+            },
+            {
+                "date": "2021-12-31",
+                "median_price": 1229317.0
+            },
+            {
+                "date": "2022-01-31",
+                "median_price": 1244983.0
+            },
+            {
+                "date": "2022-02-28",
+                "median_price": 1307983.0
+            },
+            {
+                "date": "2022-03-31",
+                "median_price": 1361333.0
+            },
+            {
+                "date": "2022-04-30",
+                "median_price": 1401000.0
+            },
+            {
+                "date": "2022-05-31",
+                "median_price": 1421666.0
+            },
+            {
+                "date": "2022-06-30",
+                "median_price": 1430629.0
+            },
+            {
+                "date": "2022-07-31",
+                "median_price": 1423963.0
+            },
+            {
+                "date": "2022-08-31",
+                "median_price": 1390296.0
+            },
+            {
+                "date": "2022-09-30",
+                "median_price": 1364333.0
+            },
+            {
+                "date": "2022-10-31",
+                "median_price": 1349000.0
+            },
+            {
+                "date": "2022-11-30",
+                "median_price": 1348667.0
+            },
+            {
+                "date": "2022-12-31",
+                "median_price": 1348667.0
+            },
+            {
+                "date": "2023-01-31",
+                "median_price": 1330983.0
+            },
+            {
+                "date": "2023-02-28",
+                "median_price": 1347650.0
+            },
+            {
+                "date": "2023-03-31",
+                "median_price": 1381317.0
+            },
+            {
+                "date": "2023-04-30",
+                "median_price": 1439333.0
+            },
+            {
+                "date": "2023-05-31",
+                "median_price": 1471667.0
+            },
+            {
+                "date": "2023-06-30",
+                "median_price": 1454998.0
+            },
+            {
+                "date": "2023-07-31",
+                "median_price": 1431332.0
+            },
+            {
+                "date": "2023-08-31",
+                "median_price": 1399613.0
+            },
+            {
+                "date": "2023-09-30",
+                "median_price": 1397948.0
+            },
+            {
+                "date": "2023-10-31",
+                "median_price": 1381281.0
+            },
+            {
+                "date": "2023-11-30",
+                "median_price": 1348000.0
+            },
+            {
+                "date": "2023-12-31",
+                "median_price": 1312629.0
+            },
+            {
+                "date": "2024-01-31",
+                "median_price": 1282296.0
+            },
+            {
+                "date": "2024-02-29",
+                "median_price": 1315296.0
+            },
+            {
+                "date": "2024-03-31",
+                "median_price": 1369000.0
+            },
+            {
+                "date": "2024-04-30",
+                "median_price": 1442135.0
+            },
+            {
+                "date": "2024-05-31",
+                "median_price": 1475135.0
+            },
+            {
+                "date": "2024-06-30",
+                "median_price": 1475135.0
+            },
+            {
+                "date": "2024-07-31",
+                "median_price": 1449000.0
+            },
+            {
+                "date": "2024-08-31",
+                "median_price": 1415667.0
+            },
+            {
+                "date": "2024-09-30",
+                "median_price": 1398667.0
+            }
+        ]
+    },
+    {
+        "region": "Steamboat Springs, CO",
+        "time_series": [
+            {
+                "date": "2018-03-31",
+                "median_price": 781667.0
+            },
+            {
+                "date": "2018-04-30",
+                "median_price": 749500.0
+            },
+            {
+                "date": "2018-05-31",
+                "median_price": 709500.0
+            },
+            {
+                "date": "2018-06-30",
+                "median_price": 689500.0
+            },
+            {
+                "date": "2018-07-31",
+                "median_price": 690000.0
+            },
+            {
+                "date": "2018-08-31",
+                "median_price": 696333.0
+            },
+            {
+                "date": "2018-09-30",
+                "median_price": 706333.0
+            },
+            {
+                "date": "2018-10-31",
+                "median_price": 723000.0
+            },
+            {
+                "date": "2018-11-30",
+                "median_price": 745000.0
+            },
+            {
+                "date": "2018-12-31",
+                "median_price": 765667.0
+            },
+            {
+                "date": "2019-01-31",
+                "median_price": 757000.0
+            },
+            {
+                "date": "2019-02-28",
+                "median_price": 747667.0
+            },
+            {
+                "date": "2019-03-31",
+                "median_price": 720000.0
+            },
+            {
+                "date": "2019-04-30",
+                "median_price": 710333.0
+            },
+            {
+                "date": "2019-05-31",
+                "median_price": 689333.0
+            },
+            {
+                "date": "2019-06-30",
+                "median_price": 689333.0
+            },
+            {
+                "date": "2019-07-31",
+                "median_price": 696000.0
+            },
+            {
+                "date": "2019-08-31",
+                "median_price": 724500.0
+            },
+            {
+                "date": "2019-09-30",
+                "median_price": 741500.0
+            },
+            {
+                "date": "2019-10-31",
+                "median_price": 754000.0
+            },
+            {
+                "date": "2019-11-30",
+                "median_price": 763833.0
+            },
+            {
+                "date": "2019-12-31",
+                "median_price": 789500.0
+            },
+            {
+                "date": "2020-01-31",
+                "median_price": 783667.0
+            },
+            {
+                "date": "2020-02-29",
+                "median_price": 769000.0
+            },
+            {
+                "date": "2020-03-31",
+                "median_price": 743000.0
+            },
+            {
+                "date": "2020-04-30",
+                "median_price": 746000.0
+            },
+            {
+                "date": "2020-05-31",
+                "median_price": 739333.0
+            },
+            {
+                "date": "2020-06-30",
+                "median_price": 738000.0
+            },
+            {
+                "date": "2020-07-31",
+                "median_price": 728000.0
+            },
+            {
+                "date": "2020-08-31",
+                "median_price": 748000.0
+            },
+            {
+                "date": "2020-09-30",
+                "median_price": 777167.0
+            },
+            {
+                "date": "2020-10-31",
+                "median_price": 814833.0
+            },
+            {
+                "date": "2020-11-30",
+                "median_price": 856500.0
+            },
+            {
+                "date": "2020-12-31",
+                "median_price": 877333.0
+            },
+            {
+                "date": "2021-01-31",
+                "median_price": 958333.0
+            },
+            {
+                "date": "2021-02-28",
+                "median_price": 980000.0
+            },
+            {
+                "date": "2021-03-31",
+                "median_price": 1072500.0
+            },
+            {
+                "date": "2021-04-30",
+                "median_price": 1090833.0
+            },
+            {
+                "date": "2021-05-31",
+                "median_price": 1096500.0
+            },
+            {
+                "date": "2021-06-30",
+                "median_price": 1104000.0
+            },
+            {
+                "date": "2021-07-31",
+                "median_price": 1045667.0
+            },
+            {
+                "date": "2021-08-31",
+                "median_price": 1048333.0
+            },
+            {
+                "date": "2021-09-30",
+                "median_price": 969833.0
+            },
+            {
+                "date": "2021-10-31",
+                "median_price": 968167.0
+            },
+            {
+                "date": "2021-11-30",
+                "median_price": 1033833.0
+            },
+            {
+                "date": "2021-12-31",
+                "median_price": 1147333.0
+            },
+            {
+                "date": "2022-01-31",
+                "median_price": 1249000.0
+            },
+            {
+                "date": "2022-02-28",
+                "median_price": 1244167.0
+            },
+            {
+                "date": "2022-03-31",
+                "median_price": 1194167.0
+            },
+            {
+                "date": "2022-04-30",
+                "median_price": 1160833.0
+            },
+            {
+                "date": "2022-05-31",
+                "median_price": 1145833.0
+            },
+            {
+                "date": "2022-06-30",
+                "median_price": 1237500.0
+            },
+            {
+                "date": "2022-07-31",
+                "median_price": 1304167.0
+            },
+            {
+                "date": "2022-08-31",
+                "median_price": 1368167.0
+            },
+            {
+                "date": "2022-09-30",
+                "median_price": 1324833.0
+            },
+            {
+                "date": "2022-10-31",
+                "median_price": 1308000.0
+            },
+            {
+                "date": "2022-11-30",
+                "median_price": 1297833.0
+            },
+            {
+                "date": "2022-12-31",
+                "median_price": 1281000.0
+            },
+            {
+                "date": "2023-01-31",
+                "median_price": 1262667.0
+            },
+            {
+                "date": "2023-02-28",
+                "median_price": 1246333.0
+            },
+            {
+                "date": "2023-03-31",
+                "median_price": 1229167.0
+            },
+            {
+                "date": "2023-04-30",
+                "median_price": 1247667.0
+            },
+            {
+                "date": "2023-05-31",
+                "median_price": 1285167.0
+            },
+            {
+                "date": "2023-06-30",
+                "median_price": 1345000.0
+            },
+            {
+                "date": "2023-07-31",
+                "median_price": 1343333.0
+            },
+            {
+                "date": "2023-08-31",
+                "median_price": 1302500.0
+            },
+            {
+                "date": "2023-09-30",
+                "median_price": 1275000.0
+            },
+            {
+                "date": "2023-10-31",
+                "median_price": 1282500.0
+            },
+            {
+                "date": "2023-11-30",
+                "median_price": 1299000.0
+            },
+            {
+                "date": "2023-12-31",
+                "median_price": 1365667.0
+            },
+            {
+                "date": "2024-01-31",
+                "median_price": 1424000.0
+            },
+            {
+                "date": "2024-02-29",
+                "median_price": 1559167.0
+            },
+            {
+                "date": "2024-03-31",
+                "median_price": 1562500.0
+            },
+            {
+                "date": "2024-04-30",
+                "median_price": 1590167.0
+            },
+            {
+                "date": "2024-05-31",
+                "median_price": 1456833.0
+            },
+            {
+                "date": "2024-06-30",
+                "median_price": 1444333.0
+            },
+            {
+                "date": "2024-07-31",
+                "median_price": 1410833.0
+            },
+            {
+                "date": "2024-08-31",
+                "median_price": 1410833.0
+            },
+            {
+                "date": "2024-09-30",
+                "median_price": 1388333.0
+            }
+        ]
+    },
+    {
+        "region": "Jackson, WY",
+        "time_series": [
+            {
+                "date": "2018-03-31",
+                "median_price": 823167.0
+            },
+            {
+                "date": "2018-04-30",
+                "median_price": 805000.0
+            },
+            {
+                "date": "2018-05-31",
+                "median_price": 783083.0
+            },
+            {
+                "date": "2018-06-30",
+                "median_price": 783083.0
+            },
+            {
+                "date": "2018-07-31",
+                "median_price": 768083.0
+            },
+            {
+                "date": "2018-08-31",
+                "median_price": 758000.0
+            },
+            {
+                "date": "2018-09-30",
+                "median_price": 762667.0
+            },
+            {
+                "date": "2018-10-31",
+                "median_price": 821000.0
+            },
+            {
+                "date": "2018-11-30",
+                "median_price": 870983.0
+            },
+            {
+                "date": "2018-12-31",
+                "median_price": 933800.0
+            },
+            {
+                "date": "2019-01-31",
+                "median_price": 925300.0
+            },
+            {
+                "date": "2019-02-28",
+                "median_price": 956817.0
+            },
+            {
+                "date": "2019-03-31",
+                "median_price": 996000.0
+            },
+            {
+                "date": "2019-04-30",
+                "median_price": 1015963.0
+            },
+            {
+                "date": "2019-05-31",
+                "median_price": 1002057.0
+            },
+            {
+                "date": "2019-06-30",
+                "median_price": 968723.0
+            },
+            {
+                "date": "2019-07-31",
+                "median_price": 1015593.0
+            },
+            {
+                "date": "2019-08-31",
+                "median_price": 1080000.0
+            },
+            {
+                "date": "2019-09-30",
+                "median_price": 1136667.0
+            },
+            {
+                "date": "2019-10-31",
+                "median_price": 1166667.0
+            },
+            {
+                "date": "2019-11-30",
+                "median_price": 1181667.0
+            },
+            {
+                "date": "2019-12-31",
+                "median_price": 1191667.0
+            },
+            {
+                "date": "2020-01-31",
+                "median_price": 1225000.0
+            },
+            {
+                "date": "2020-02-29",
+                "median_price": 1230000.0
+            },
+            {
+                "date": "2020-03-31",
+                "median_price": 1220000.0
+            },
+            {
+                "date": "2020-04-30",
+                "median_price": 1169167.0
+            },
+            {
+                "date": "2020-05-31",
+                "median_price": 1125833.0
+            },
+            {
+                "date": "2020-06-30",
+                "median_price": 1102500.0
+            },
+            {
+                "date": "2020-07-31",
+                "median_price": 1073333.0
+            },
+            {
+                "date": "2020-08-31",
+                "median_price": 1073333.0
+            },
+            {
+                "date": "2020-09-30",
+                "median_price": 1091667.0
+            },
+            {
+                "date": "2020-10-31",
+                "median_price": 1141667.0
+            },
+            {
+                "date": "2020-11-30",
+                "median_price": 1200000.0
+            },
+            {
+                "date": "2020-12-31",
+                "median_price": 1244167.0
+            },
+            {
+                "date": "2021-01-31",
+                "median_price": 1309167.0
+            },
+            {
+                "date": "2021-02-28",
+                "median_price": 1324167.0
+            },
+            {
+                "date": "2021-03-31",
+                "median_price": 1396667.0
+            },
+            {
+                "date": "2021-04-30",
+                "median_price": 1398333.0
+            },
+            {
+                "date": "2021-05-31",
+                "median_price": 1465000.0
+            },
+            {
+                "date": "2021-06-30",
+                "median_price": 1615000.0
+            },
+            {
+                "date": "2021-07-31",
+                "median_price": 1681667.0
+            },
+            {
+                "date": "2021-08-31",
+                "median_price": 1816667.0
+            },
+            {
+                "date": "2021-09-30",
+                "median_price": 1799833.0
+            },
+            {
+                "date": "2021-10-31",
+                "median_price": 1933167.0
+            },
+            {
+                "date": "2021-11-30",
+                "median_price": 1949833.0
+            },
+            {
+                "date": "2021-12-31",
+                "median_price": 2016667.0
+            },
+            {
+                "date": "2022-01-31",
+                "median_price": 2116500.0
+            },
+            {
+                "date": "2022-02-28",
+                "median_price": 2216500.0
+            },
+            {
+                "date": "2022-03-31",
+                "median_price": 2249000.0
+            },
+            {
+                "date": "2022-04-30",
+                "median_price": 2132500.0
+            },
+            {
+                "date": "2022-05-31",
+                "median_price": 2032500.0
+            },
+            {
+                "date": "2022-06-30",
+                "median_price": 1900000.0
+            },
+            {
+                "date": "2022-07-31",
+                "median_price": 1858333.0
+            },
+            {
+                "date": "2022-08-31",
+                "median_price": 1858333.0
+            },
+            {
+                "date": "2022-09-30",
+                "median_price": 1875000.0
+            },
+            {
+                "date": "2022-10-31",
+                "median_price": 1850000.0
+            },
+            {
+                "date": "2022-11-30",
+                "median_price": 1741667.0
+            },
+            {
+                "date": "2022-12-31",
+                "median_price": 1690000.0
+            },
+            {
+                "date": "2023-01-31",
+                "median_price": 1655833.0
+            },
+            {
+                "date": "2023-02-28",
+                "median_price": 1620667.0
+            },
+            {
+                "date": "2023-03-31",
+                "median_price": 1505667.0
+            },
+            {
+                "date": "2023-04-30",
+                "median_price": 1288167.0
+            },
+            {
+                "date": "2023-05-31",
+                "median_price": 1231667.0
+            },
+            {
+                "date": "2023-06-30",
+                "median_price": 1280000.0
+            },
+            {
+                "date": "2023-07-31",
+                "median_price": 1448000.0
+            },
+            {
+                "date": "2023-08-31",
+                "median_price": 1496333.0
+            },
+            {
+                "date": "2023-09-30",
+                "median_price": 1498000.0
+            },
+            {
+                "date": "2023-10-31",
+                "median_price": 1498000.0
+            },
+            {
+                "date": "2023-11-30",
+                "median_price": 1495500.0
+            },
+            {
+                "date": "2023-12-31",
+                "median_price": 1452167.0
+            },
+            {
+                "date": "2024-01-31",
+                "median_price": 1450833.0
+            },
+            {
+                "date": "2024-02-29",
+                "median_price": 1400833.0
+            },
+            {
+                "date": "2024-03-31",
+                "median_price": 1377500.0
+            },
+            {
+                "date": "2024-04-30",
+                "median_price": 1312333.0
+            },
+            {
+                "date": "2024-05-31",
+                "median_price": 1283167.0
+            },
+            {
+                "date": "2024-06-30",
+                "median_price": 1283166.0
+            },
+            {
+                "date": "2024-07-31",
+                "median_price": 1316666.0
+            },
+            {
+                "date": "2024-08-31",
+                "median_price": 1350000.0
+            },
+            {
+                "date": "2024-09-30",
+                "median_price": 1349667.0
+            }
+        ]
+    },
+    {
+        "region": "Kapaa, HI",
+        "time_series": [
+            {
+                "date": "2018-03-31",
+                "median_price": 837667.0
+            },
+            {
+                "date": "2018-04-30",
+                "median_price": 872667.0
+            },
+            {
+                "date": "2018-05-31",
+                "median_price": 916333.0
+            },
+            {
+                "date": "2018-06-30",
+                "median_price": 943333.0
+            },
+            {
+                "date": "2018-07-31",
+                "median_price": 933000.0
+            },
+            {
+                "date": "2018-08-31",
+                "median_price": 928000.0
+            },
+            {
+                "date": "2018-09-30",
+                "median_price": 912000.0
+            },
+            {
+                "date": "2018-10-31",
+                "median_price": 898706.0
+            },
+            {
+                "date": "2018-11-30",
+                "median_price": 876373.0
+            },
+            {
+                "date": "2018-12-31",
+                "median_price": 871706.0
+            },
+            {
+                "date": "2019-01-31",
+                "median_price": 868633.0
+            },
+            {
+                "date": "2019-02-28",
+                "median_price": 864133.0
+            },
+            {
+                "date": "2019-03-31",
+                "median_price": 843800.0
+            },
+            {
+                "date": "2019-04-30",
+                "median_price": 843798.0
+            },
+            {
+                "date": "2019-05-31",
+                "median_price": 857298.0
+            },
+            {
+                "date": "2019-06-30",
+                "median_price": 881298.0
+            },
+            {
+                "date": "2019-07-31",
+                "median_price": 898000.0
+            },
+            {
+                "date": "2019-08-31",
+                "median_price": 908667.0
+            },
+            {
+                "date": "2019-09-30",
+                "median_price": 919000.0
+            },
+            {
+                "date": "2019-10-31",
+                "median_price": 918833.0
+            },
+            {
+                "date": "2019-11-30",
+                "median_price": 941500.0
+            },
+            {
+                "date": "2019-12-31",
+                "median_price": 956500.0
+            },
+            {
+                "date": "2020-01-31",
+                "median_price": 956333.0
+            },
+            {
+                "date": "2020-02-29",
+                "median_price": 915500.0
+            },
+            {
+                "date": "2020-03-31",
+                "median_price": 889500.0
+            },
+            {
+                "date": "2020-04-30",
+                "median_price": 883083.0
+            },
+            {
+                "date": "2020-05-31",
+                "median_price": 888917.0
+            },
+            {
+                "date": "2020-06-30",
+                "median_price": 869250.0
+            },
+            {
+                "date": "2020-07-31",
+                "median_price": 862500.0
+            },
+            {
+                "date": "2020-08-31",
+                "median_price": 852500.0
+            },
+            {
+                "date": "2020-09-30",
+                "median_price": 848833.0
+            },
+            {
+                "date": "2020-10-31",
+                "median_price": 836500.0
+            },
+            {
+                "date": "2020-11-30",
+                "median_price": 826500.0
+            },
+            {
+                "date": "2020-12-31",
+                "median_price": 835000.0
+            },
+            {
+                "date": "2021-01-31",
+                "median_price": 837167.0
+            },
+            {
+                "date": "2021-02-28",
+                "median_price": 838833.0
+            },
+            {
+                "date": "2021-03-31",
+                "median_price": 853667.0
+            },
+            {
+                "date": "2021-04-30",
+                "median_price": 908000.0
+            },
+            {
+                "date": "2021-06-30",
+                "median_price": 1005333.0
+            },
+            {
+                "date": "2021-07-31",
+                "median_price": 1051333.0
+            },
+            {
+                "date": "2021-08-31",
+                "median_price": 1076333.0
+            },
+            {
+                "date": "2021-10-31",
+                "median_price": 1193333.0
+            },
+            {
+                "date": "2021-11-30",
+                "median_price": 1243333.0
+            },
+            {
+                "date": "2021-12-31",
+                "median_price": 1243333.0
+            },
+            {
+                "date": "2022-01-31",
+                "median_price": 1259000.0
+            },
+            {
+                "date": "2022-02-28",
+                "median_price": 1163833.0
+            },
+            {
+                "date": "2022-03-31",
+                "median_price": 1070500.0
+            },
+            {
+                "date": "2022-04-30",
+                "median_price": 1071333.0
+            },
+            {
+                "date": "2022-05-31",
+                "median_price": 1158833.0
+            },
+            {
+                "date": "2022-06-30",
+                "median_price": 1254500.0
+            },
+            {
+                "date": "2022-07-31",
+                "median_price": 1304667.0
+            },
+            {
+                "date": "2022-08-31",
+                "median_price": 1344000.0
+            },
+            {
+                "date": "2022-09-30",
+                "median_price": 1378000.0
+            },
+            {
+                "date": "2022-10-31",
+                "median_price": 1380500.0
+            },
+            {
+                "date": "2022-11-30",
+                "median_price": 1373830.0
+            },
+            {
+                "date": "2022-12-31",
+                "median_price": 1360830.0
+            },
+            {
+                "date": "2023-01-31",
+                "median_price": 1358330.0
+            },
+            {
+                "date": "2023-02-28",
+                "median_price": 1350000.0
+            },
+            {
+                "date": "2023-03-31",
+                "median_price": 1363000.0
+            },
+            {
+                "date": "2023-04-30",
+                "median_price": 1413000.0
+            },
+            {
+                "date": "2023-05-31",
+                "median_price": 1435333.0
+            },
+            {
+                "date": "2023-06-30",
+                "median_price": 1447333.0
+            },
+            {
+                "date": "2023-07-31",
+                "median_price": 1379667.0
+            },
+            {
+                "date": "2023-08-31",
+                "median_price": 1340500.0
+            },
+            {
+                "date": "2023-09-30",
+                "median_price": 1298833.0
+            },
+            {
+                "date": "2023-10-31",
+                "median_price": 1356500.0
+            },
+            {
+                "date": "2023-11-30",
+                "median_price": 1387500.0
+            },
+            {
+                "date": "2023-12-31",
+                "median_price": 1399800.0
+            },
+            {
+                "date": "2024-01-31",
+                "median_price": 1397300.0
+            },
+            {
+                "date": "2024-02-29",
+                "median_price": 1449633.0
+            },
+            {
+                "date": "2024-03-31",
+                "median_price": 1485667.0
+            },
+            {
+                "date": "2024-04-30",
+                "median_price": 1448167.0
+            },
+            {
+                "date": "2024-05-31",
+                "median_price": 1381667.0
+            },
+            {
+                "date": "2024-06-30",
+                "median_price": 1316667.0
+            },
+            {
+                "date": "2024-07-31",
+                "median_price": 1296333.0
+            },
+            {
+                "date": "2024-08-31",
+                "median_price": 1296333.0
+            },
+            {
+                "date": "2024-09-30",
+                "median_price": 1346000.0
+            }
+        ]
+    },
+    {
+        "region": "Hailey, ID",
+        "time_series": [
+            {
+                "date": "2018-03-31",
+                "median_price": 813667.0
+            },
+            {
+                "date": "2018-04-30",
+                "median_price": 814667.0
+            },
+            {
+                "date": "2018-05-31",
+                "median_price": 775000.0
+            },
+            {
+                "date": "2018-06-30",
+                "median_price": 750000.0
+            },
+            {
+                "date": "2018-07-31",
+                "median_price": 737500.0
+            },
+            {
+                "date": "2018-08-31",
+                "median_price": 735833.0
+            },
+            {
+                "date": "2018-09-30",
+                "median_price": 728833.0
+            },
+            {
+                "date": "2018-10-31",
+                "median_price": 724667.0
+            },
+            {
+                "date": "2018-11-30",
+                "median_price": 743000.0
+            },
+            {
+                "date": "2018-12-31",
+                "median_price": 766333.0
+            },
+            {
+                "date": "2019-01-31",
+                "median_price": 782667.0
+            },
+            {
+                "date": "2019-02-28",
+                "median_price": 798167.0
+            },
+            {
+                "date": "2019-03-31",
+                "median_price": 806833.0
+            },
+            {
+                "date": "2019-04-30",
+                "median_price": 817167.0
+            },
+            {
+                "date": "2019-05-31",
+                "median_price": 803167.0
+            },
+            {
+                "date": "2019-06-30",
+                "median_price": 814167.0
+            },
+            {
+                "date": "2019-07-31",
+                "median_price": 803833.0
+            },
+            {
+                "date": "2019-08-31",
+                "median_price": 849500.0
+            },
+            {
+                "date": "2019-09-30",
+                "median_price": 849000.0
+            },
+            {
+                "date": "2019-10-31",
+                "median_price": 889833.0
+            },
+            {
+                "date": "2019-11-30",
+                "median_price": 924000.0
+            },
+            {
+                "date": "2019-12-31",
+                "median_price": 1021000.0
+            },
+            {
+                "date": "2020-01-31",
+                "median_price": 1130500.0
+            },
+            {
+                "date": "2020-02-29",
+                "median_price": 1189167.0
+            },
+            {
+                "date": "2020-03-31",
+                "median_price": 1105000.0
+            },
+            {
+                "date": "2020-04-30",
+                "median_price": 1104167.0
+            },
+            {
+                "date": "2020-05-31",
+                "median_price": 1011500.0
+            },
+            {
+                "date": "2020-06-30",
+                "median_price": 1029500.0
+            },
+            {
+                "date": "2020-07-31",
+                "median_price": 935333.0
+            },
+            {
+                "date": "2020-08-31",
+                "median_price": 926333.0
+            },
+            {
+                "date": "2020-09-30",
+                "median_price": 943000.0
+            },
+            {
+                "date": "2020-10-31",
+                "median_price": 1003000.0
+            },
+            {
+                "date": "2020-11-30",
+                "median_price": 1098000.0
+            },
+            {
+                "date": "2020-12-31",
+                "median_price": 1196667.0
+            },
+            {
+                "date": "2021-01-31",
+                "median_price": 1214667.0
+            },
+            {
+                "date": "2021-02-28",
+                "median_price": 1097000.0
+            },
+            {
+                "date": "2021-03-31",
+                "median_price": 926000.0
+            },
+            {
+                "date": "2021-05-31",
+                "median_price": 700667.0
+            },
+            {
+                "date": "2021-06-30",
+                "median_price": 715000.0
+            },
+            {
+                "date": "2021-07-31",
+                "median_price": 805000.0
+            },
+            {
+                "date": "2021-08-31",
+                "median_price": 876667.0
+            },
+            {
+                "date": "2021-09-30",
+                "median_price": 933333.0
+            },
+            {
+                "date": "2021-10-31",
+                "median_price": 943333.0
+            },
+            {
+                "date": "2021-11-30",
+                "median_price": 934167.0
+            },
+            {
+                "date": "2021-12-31",
+                "median_price": 935467.0
+            },
+            {
+                "date": "2022-01-31",
+                "median_price": 931133.0
+            },
+            {
+                "date": "2022-02-28",
+                "median_price": 949467.0
+            },
+            {
+                "date": "2022-03-31",
+                "median_price": 873167.0
+            },
+            {
+                "date": "2022-04-30",
+                "median_price": 806500.0
+            },
+            {
+                "date": "2022-05-31",
+                "median_price": 759000.0
+            },
+            {
+                "date": "2022-06-30",
+                "median_price": 808117.0
+            },
+            {
+                "date": "2022-07-31",
+                "median_price": 886450.0
+            },
+            {
+                "date": "2022-08-31",
+                "median_price": 921117.0
+            },
+            {
+                "date": "2022-09-30",
+                "median_price": 915000.0
+            },
+            {
+                "date": "2022-10-31",
+                "median_price": 897667.0
+            },
+            {
+                "date": "2022-11-30",
+                "median_price": 914667.0
+            },
+            {
+                "date": "2022-12-31",
+                "median_price": 996167.0
+            },
+            {
+                "date": "2023-01-31",
+                "median_price": 1128417.0
+            },
+            {
+                "date": "2023-02-28",
+                "median_price": 1143417.0
+            },
+            {
+                "date": "2023-03-31",
+                "median_price": 1094750.0
+            },
+            {
+                "date": "2023-04-30",
+                "median_price": 949167.0
+            },
+            {
+                "date": "2023-05-31",
+                "median_price": 917167.0
+            },
+            {
+                "date": "2023-06-30",
+                "median_price": 1046333.0
+            },
+            {
+                "date": "2023-07-31",
+                "median_price": 1319667.0
+            },
+            {
+                "date": "2023-08-31",
+                "median_price": 1545000.0
+            },
+            {
+                "date": "2023-09-30",
+                "median_price": 1625000.0
+            },
+            {
+                "date": "2023-10-31",
+                "median_price": 1616667.0
+            },
+            {
+                "date": "2023-11-30",
+                "median_price": 1620000.0
+            },
+            {
+                "date": "2023-12-31",
+                "median_price": 1695000.0
+            },
+            {
+                "date": "2024-01-31",
+                "median_price": 1640667.0
+            },
+            {
+                "date": "2024-02-29",
+                "median_price": 1504000.0
+            },
+            {
+                "date": "2024-03-31",
+                "median_price": 1278333.0
+            },
+            {
+                "date": "2024-04-30",
+                "median_price": 1166000.0
+            },
+            {
+                "date": "2024-05-31",
+                "median_price": 1145000.0
+            },
+            {
+                "date": "2024-06-30",
+                "median_price": 1162333.0
+            },
+            {
+                "date": "2024-07-31",
+                "median_price": 1199000.0
+            },
+            {
+                "date": "2024-08-31",
+                "median_price": 1260000.0
+            },
+            {
+                "date": "2024-09-30",
+                "median_price": 1268333.0
+            }
+        ]
+    },
+    {
+        "region": "Napa, CA",
+        "time_series": [
+            {
+                "date": "2018-03-31",
+                "median_price": 780500.0
+            },
+            {
+                "date": "2018-04-30",
+                "median_price": 804167.0
+            },
+            {
+                "date": "2018-05-31",
+                "median_price": 838500.0
+            },
+            {
+                "date": "2018-06-30",
+                "median_price": 866333.0
+            },
+            {
+                "date": "2018-07-31",
+                "median_price": 849417.0
+            },
+            {
+                "date": "2018-08-31",
+                "median_price": 839417.0
+            },
+            {
+                "date": "2018-09-30",
+                "median_price": 832750.0
+            },
+            {
+                "date": "2018-10-31",
+                "median_price": 856000.0
+            },
+            {
+                "date": "2018-11-30",
+                "median_price": 855000.0
+            },
+            {
+                "date": "2018-12-31",
+                "median_price": 838658.0
+            },
+            {
+                "date": "2019-01-31",
+                "median_price": 813992.0
+            },
+            {
+                "date": "2019-02-28",
+                "median_price": 808992.0
+            },
+            {
+                "date": "2019-03-31",
+                "median_price": 821667.0
+            },
+            {
+                "date": "2019-04-30",
+                "median_price": 843250.0
+            },
+            {
+                "date": "2019-05-31",
+                "median_price": 861333.0
+            },
+            {
+                "date": "2019-06-30",
+                "median_price": 868333.0
+            },
+            {
+                "date": "2019-07-31",
+                "median_price": 858233.0
+            },
+            {
+                "date": "2019-08-31",
+                "median_price": 839450.0
+            },
+            {
+                "date": "2019-09-30",
+                "median_price": 836283.0
+            },
+            {
+                "date": "2019-10-31",
+                "median_price": 842800.0
+            },
+            {
+                "date": "2019-11-30",
+                "median_price": 849500.0
+            },
+            {
+                "date": "2019-12-31",
+                "median_price": 849333.0
+            },
+            {
+                "date": "2020-01-31",
+                "median_price": 852333.0
+            },
+            {
+                "date": "2020-02-29",
+                "median_price": 846500.0
+            },
+            {
+                "date": "2020-03-31",
+                "median_price": 861833.0
+            },
+            {
+                "date": "2020-04-30",
+                "median_price": 885500.0
+            },
+            {
+                "date": "2020-05-31",
+                "median_price": 907667.0
+            },
+            {
+                "date": "2020-06-30",
+                "median_price": 913467.0
+            },
+            {
+                "date": "2020-07-31",
+                "median_price": 934617.0
+            },
+            {
+                "date": "2020-08-31",
+                "median_price": 989117.0
+            },
+            {
+                "date": "2020-09-30",
+                "median_price": 1026650.0
+            },
+            {
+                "date": "2020-10-31",
+                "median_price": 1062500.0
+            },
+            {
+                "date": "2020-11-30",
+                "median_price": 1079167.0
+            },
+            {
+                "date": "2020-12-31",
+                "median_price": 1128833.0
+            },
+            {
+                "date": "2021-01-31",
+                "median_price": 1127167.0
+            },
+            {
+                "date": "2021-02-28",
+                "median_price": 1088000.0
+            },
+            {
+                "date": "2021-03-31",
+                "median_price": 1028333.0
+            },
+            {
+                "date": "2021-04-30",
+                "median_price": 996000.0
+            },
+            {
+                "date": "2021-05-31",
+                "median_price": 1022667.0
+            },
+            {
+                "date": "2021-06-30",
+                "median_price": 1045000.0
+            },
+            {
+                "date": "2021-07-31",
+                "median_price": 1060167.0
+            },
+            {
+                "date": "2021-08-31",
+                "median_price": 1051167.0
+            },
+            {
+                "date": "2021-09-30",
+                "median_price": 1047167.0
+            },
+            {
+                "date": "2021-10-31",
+                "median_price": 1061000.0
+            },
+            {
+                "date": "2021-11-30",
+                "median_price": 1095000.0
+            },
+            {
+                "date": "2021-12-31",
+                "median_price": 1128167.0
+            },
+            {
+                "date": "2022-01-31",
+                "median_price": 1154000.0
+            },
+            {
+                "date": "2022-02-28",
+                "median_price": 1158167.0
+            },
+            {
+                "date": "2022-03-31",
+                "median_price": 1174667.0
+            },
+            {
+                "date": "2022-04-30",
+                "median_price": 1189500.0
+            },
+            {
+                "date": "2022-05-31",
+                "median_price": 1201667.0
+            },
+            {
+                "date": "2022-06-30",
+                "median_price": 1200333.0
+            },
+            {
+                "date": "2022-07-31",
+                "median_price": 1189667.0
+            },
+            {
+                "date": "2022-08-31",
+                "median_price": 1156665.0
+            },
+            {
+                "date": "2022-09-30",
+                "median_price": 1139832.0
+            },
+            {
+                "date": "2022-10-31",
+                "median_price": 1114831.0
+            },
+            {
+                "date": "2022-11-30",
+                "median_price": 1098166.0
+            },
+            {
+                "date": "2022-12-31",
+                "median_price": 1082999.0
+            },
+            {
+                "date": "2023-01-31",
+                "median_price": 1041333.0
+            },
+            {
+                "date": "2023-02-28",
+                "median_price": 1041333.0
+            },
+            {
+                "date": "2023-03-31",
+                "median_price": 1036333.0
+            },
+            {
+                "date": "2023-04-30",
+                "median_price": 1136333.0
+            },
+            {
+                "date": "2023-05-31",
+                "median_price": 1236333.0
+            },
+            {
+                "date": "2023-06-30",
+                "median_price": 1295667.0
+            },
+            {
+                "date": "2023-07-31",
+                "median_price": 1319833.0
+            },
+            {
+                "date": "2023-08-31",
+                "median_price": 1301500.0
+            },
+            {
+                "date": "2023-09-30",
+                "median_price": 1280483.0
+            },
+            {
+                "date": "2023-10-31",
+                "median_price": 1256317.0
+            },
+            {
+                "date": "2023-11-30",
+                "median_price": 1256317.0
+            },
+            {
+                "date": "2023-12-31",
+                "median_price": 1306500.0
+            },
+            {
+                "date": "2024-01-31",
+                "median_price": 1281167.0
+            },
+            {
+                "date": "2024-02-29",
+                "median_price": 1249500.0
+            },
+            {
+                "date": "2024-03-31",
+                "median_price": 1224667.0
+            },
+            {
+                "date": "2024-04-30",
+                "median_price": 1258333.0
+            },
+            {
+                "date": "2024-05-31",
+                "median_price": 1323833.0
+            },
+            {
+                "date": "2024-06-30",
+                "median_price": 1357167.0
+            },
+            {
+                "date": "2024-07-31",
+                "median_price": 1355667.0
+            },
+            {
+                "date": "2024-08-31",
+                "median_price": 1306833.0
+            },
+            {
+                "date": "2024-09-30",
+                "median_price": 1265167.0
+            }
+        ]
+    }
+]

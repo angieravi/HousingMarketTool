@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Interactive Demographic Maps</title>
+  <style>
+    .map-container, .map-placeholder {
+      display: none;
+      width: 80%;
+      height: 600px;
+      margin: 0 auto;
+      border: none;
+    }
+
+    .map-placeholder {
+      display: block;
+      max-width: 80%;
+      max-height: 400px;
+      object-fit: contain;
+      margin: 0 auto;
+    }
+
+    select, button {
+      margin: 10px;
+    }
+
+    .container {
+      text-align: center;
+      max-width: 1400px;
+      margin: auto;
+    }
+
+    .blurb {
+      margin-bottom: 20px;
+      font-size: 18px;
+      line-height: 1.5;
+    }
+
+    .map-section {
+      margin: 30px 0;
+    }
+
+    .chart-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin: 20px auto;
+      font-family: Arial, sans-serif;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Interactive Demographic Maps</h1>
+
+    <div class="blurb">
+      <p><strong>Explore Demographic Data Across the United States</strong></p>
+      <p>Use our interactive demographic maps to see an in-depth view of key statistics including housing occupancy, age distribution, race distribution, and housing tenure at the county-level across the United States. This data can guide our understanding of the current social, economic, and housing landscape across different regions.</p>
+      
+      <p><strong>States Included in Each Region:</strong></p>
+      <ul>
+        <li><strong>Northeast:</strong> Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island, Vermont, New Jersey, New York, Pennsylvania</li>
+        <li><strong>South Central:</strong> Alabama, Arkansas, Kentucky, Louisiana, Mississippi, Oklahoma, Tennessee, Texas</li>
+        <li><strong>South Atlantic:</strong> Delaware, Florida, Georgia, Maryland, North Carolina, South Carolina, Virginia, West Virginia</li>
+        <li><strong>Midwest:</strong> Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin</li>
+        <li><strong>West:</strong> Arizona, California, Colorado, Hawaii, Idaho, Montana, Nevada, New Mexico, Oregon, Utah, Washington, Wyoming</li>
+      </ul>
+    </div>
+
+    <!-- Section for Race and Age -->
+    <div class="map-section">
+      <h2>Race and Age Distribution</h2>
+      <label for="region-select-age-race">Select Region:</label>
+      <select id="region-select-age-race">
+        <option value="northeast">Northeast</option>
+        <option value="south_central">South Central</option>
+        <option value="south_atlantic">South Atlantic</option>
+        <option value="midwest">Midwest</option>
+        <option value="west">West</option>
+      </select>
+
+      <label for="category-select-age-race">Select Category:</label>
+      <select id="category-select-age-race">
+        <option value="age">Age</option>
+        <option value="race">Race</option>
+      </select>
+
+      <button onclick="loadMap('age_race')">Load Map</button>
+      
+      <!-- Image placeholder and iframes for race and age -->
+      <img id="age_race_placeholder" class="map-placeholder" src="us-regions.jpg" alt="US Regions Map">
+      <iframe id="northeast_age_map" class="map-container"></iframe>
+      <iframe id="northeast_race_map" class="map-container"></iframe>
+      <iframe id="south_central_age_map" class="map-container"></iframe>
+      <iframe id="south_central_race_map" class="map-container"></iframe>
+      <iframe id="south_atlantic_age_map" class="map-container"></iframe>
+      <iframe id="south_atlantic_race_map" class="map-container"></iframe>
+      <iframe id="midwest_age_map" class="map-container"></iframe>
+      <iframe id="midwest_race_map" class="map-container"></iframe>
+      <iframe id="west_age_map" class="map-container"></iframe>
+      <iframe id="west_race_map" class="map-container"></iframe>
+    </div>
+
+    <!-- Section for Housing Occupancy and Renters vs Buyers -->
+    <div class="map-section">
+      <h2>Housing Occupancy and Tenure</h2>
+      <label for="region-select-housing">Select Region:</label>
+      <select id="region-select-housing">
+        <option value="northeast">Northeast</option>
+        <option value="south_central">South Central</option>
+        <option value="south_atlantic">South Atlantic</option>
+        <option value="midwest">Midwest</option>
+        <option value="west">West</option>
+      </select>
+
+      <label for="category-select-housing">Select Category:</label>
+      <select id="category-select-housing">
+        <option value="housing_occupancy">Housing Occupancy/Types</option>
+        <option value="housing_tenure">Renters vs Buyers</option>
+      </select>
+
+      <button onclick="loadMap('housing')">Load Map</button>
+      
+      <!-- Image placeholder and iframes for housing occupancy and tenure -->
+      <img id="housing_placeholder" class="map-placeholder" src="us-regions.jpg" alt="US Regions Map">
+      <iframe id="northeast_housing_occupancy_map" class="map-container"></iframe>
+      <iframe id="northeast_housing_tenure_map" class="map-container"></iframe>
+      <iframe id="south_central_housing_occupancy_map" class="map-container"></iframe>
+      <iframe id="south_central_housing_tenure_map" class="map-container"></iframe>
+      <iframe id="south_atlantic_housing_occupancy_map" class="map-container"></iframe>
+      <iframe id="south_atlantic_housing_tenure_map" class="map-container"></iframe>
+      <iframe id="midwest_housing_occupancy_map" class="map-container"></iframe>
+      <iframe id="midwest_housing_tenure_map" class="map-container"></iframe>
+      <iframe id="west_housing_occupancy_map" class="map-container"></iframe>
+      <iframe id="west_housing_tenure_map" class="map-container"></iframe>
+    </div>
+  </div>
+  <script>
+    function loadMap(type) {
+      let region, category, placeholder;
+      if (type === 'age_race') {
+        region = document.getElementById('region-select-age-race').value;
+        category = document.getElementById('category-select-age-race').value;
+        placeholder = document.getElementById('age_race_placeholder');
+      } else if (type === 'housing') {
+        region = document.getElementById('region-select-housing').value;
+        category = document.getElementById('category-select-housing').value;
+        placeholder = document.getElementById('housing_placeholder');
+      }
+  
+      // Hide all iframes and show the placeholder initially
+      document.querySelectorAll('.map-container').forEach(map => map.style.display = 'none');
+      placeholder.style.display = 'block';
+  
+      // Display the selected iframe after hiding the placeholder
+      const selectedMap = document.getElementById(`${region}_${category}_map`);
+      selectedMap.src = `${region}_${category}_map.html`;
+      selectedMap.style.display = 'block';
+      placeholder.style.display = 'none';
+    }
+  </script>
+ <div class="chart-container">
+  <h2>Median Listing Price for Top 10 Regions and Including United States </h2>
+  <div id="chart1"></div>
+</div>
+
+<script type="module">
+  import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
+
+  // Load the JSON data
+  d3.json("top_10_cities_listing_price.json").then(data => {  
+      data.forEach(region => {
+          region.time_series.forEach(d => {
+              d.date = new Date(d.date);
+              d.median_price = +d.median_price;
+          });
+      });
+
+      // Set up dimensions and margins
+      const width = 800;
+      const height = 600;
+      const margin = { top: 50, right: 200, bottom: 50, left: 60 };
+
+      // svg containers
+      const svg = d3.select("#chart1")
+          .append("svg")
+          .attr("width", width)
+          .attr("height", height);
+
+      // scales
+      const x = d3.scaleTime()
+          .domain(d3.extent(data[0].time_series, d => d.date))
+          .range([margin.left, width - margin.right]);
+
+      const y = d3.scaleLinear()
+          .domain([0, d3.max(data, region => d3.max(region.time_series, d => d.median_price))]).nice()
+          .range([height - margin.bottom, margin.top]);
+
+      // Define line generator
+      const line = d3.line()
+          .x(d => x(d.date))
+          .y(d => y(d.median_price));
+
+      const color = d3.scaleOrdinal(d3.schemeCategory10);
+
+      // Plot lines
+      data.forEach((region, i) => {
+          svg.append("path")
+              .datum(region.time_series)
+              .attr("fill", "none")
+              .attr("stroke", color(i))
+              .attr("stroke-width", 1.5)
+              .attr("d", line);
+
+          // labels
+          svg.append("text")
+              .datum(region.time_series[region.time_series.length - 1])
+              .attr("x", d => x(d.date) + 5)
+              .attr("y", d => y(d.median_price))
+              .attr("dy", ".35em")
+              .style("fill", color(i))
+              .style("font-size", "12px")
+              .text(region.region);
+      });
+
+      // x-axis
+      svg.append("g")
+          .attr("transform", `translate(0,${height - margin.bottom})`)
+          .call(d3.axisBottom(x).tickFormat(d3.timeFormat("%b %Y")))
+          .selectAll("text")
+          .attr("transform", "rotate(-45)")
+          .style("text-anchor", "end");
+
+      // y-axis
+      svg.append("g")
+          .attr("transform", `translate(${margin.left},0)`)
+          .call(d3.axisLeft(y).tickFormat(d => `$${d.toLocaleString()}`));
+
+      // chart title
+      svg.append("text")
+          .attr("x", width / 2)
+          .attr("y", margin.top / 2)
+          .attr("text-anchor", "middle")
+          .style("font-size", "16px")
+          .style("font-weight", "bold")
+          .text("Median Listing Price for Top 10 Regions and United States");
+  }).catch(error => console.error("Error loading data:", error));
+</script>
+</body>
+</html>
