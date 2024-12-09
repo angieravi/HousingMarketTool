@@ -5,3 +5,5 @@ HomeScope is an website designed to support users in their housing decisions by 
 
 The primary goal of HomeScope is to streamline the housing search process and promote informed decision-making through the platform's enhanced accessibility of market information. 
 Using updated data from the housing market, neighborhood demographics, and mapping, we aim to create a seamless user experience that will help you find your future home or neighborhood. 
+
+Deployment repo over at https://github.com/alexisgiobbi/flask-app 
