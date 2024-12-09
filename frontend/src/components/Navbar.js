@@ -1,38 +1,29 @@
 // src/components/Navbar.js
 import React from 'react';
 import { Link } from 'react-router-dom';
-import logo from '../assets/logo.svg';  // Assuming you have a logo asset
+import logo from '../assets/logo.png';  
 
 const Navbar = () => {
   return (
     <nav className="bg-white shadow-md py-4 px-6 flex justify-between items-center">
       {/* Logo */}
       <Link to="/">
-        <img src={logo} alt="Renter Insights" className="w-32" />
+      <img src={logo} alt="HomeScope" className="w-52" />
       </Link>
 
       {/* Navigation Links */}
       <ul className="flex space-x-8 text-lg">
         <li>
-          <Link to="/renters-insight" className="hover:underline">Renter Insights</Link>
+          <Link to="/market-page" className="hover:underline">Market Overview</Link>
         </li>
         <li>
-          <Link to="#" className="hover:underline">Account</Link>
+          <Link to="/location-based-insights" className="hover:underline">Location Based Insights</Link>
         </li>
         <li>
-          <Link to="#" className="hover:underline">Reviews</Link>
-        </li>
-        <li>
-          <Link to="#" className="hover:underline">Nearby Homes</Link>
+          <Link to="/renters-insight" className="hover:underline">Housing Insights</Link>
         </li>
       </ul>
 
-      {/* Search Bar */}
-      <input
-        type="text"
-        placeholder="Search in site"
-        className="border border-gray-300 rounded px-3 py-2"
-      />
     </nav>
   );
 };

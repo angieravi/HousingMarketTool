@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Select State and Category</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <h2>Generate Map</h2>
+<form action="/map" method="POST">
+    <label for="state_code">Select State FP Code:</label>
+    <select name="state_code" id="state_code" required>
+        {% for state_fp in state_fps %}
+            <option value="{{ state_fp }}">{{ state_fp }}</option>
+        {% endfor %}
+    </select>
+    <br>
+    <label for="category">Select Category:</label>
+    <select name="category" required>
+        {% for category in categories %}
+            <option value="{{ category }}">{{ category }}</option>
+        {% endfor %}
+    </select>
+    <br><br>
+    <button type="submit">Generate Map</button>
+</form>
+
+<h2>Generate Line Graph</h2>
+<form action="/line_graph" method="POST">
+    <label for="state">State:</label>
+    <select name="state" id="state" required>
+      <option value="">Select State</option>
+      {% for state in states %}
+        <option value="{{ state }}">{{ state }}</option>
+      {% endfor %}
+    </select>
+  
+    <label for="county">County:</label>
+    <input type="text" id="county" name="county" placeholder="Enter County Name" required>
+  
+    <button type="submit">Generate Graph</button>
+  </form>
+  <h2>Generate Housing Line Graph</h2>
+  <form action="/housing_market_graph" method="POST">
+    <label for="state">State:</label>
+    <select name="state" id="state" required>
+        <option value="">Select State</option>
+        {% for state in states %}
+            <option value="{{ state }}">{{ state }}</option>
+        {% endfor %}
+    </select>
+
+    <label for="county">County:</label>
+    <input type="text" id="county" name="county" placeholder="Enter County Name" required>
+
+    <button type="submit">Generate Graph</button>
+</form>
+
+
+<h2>Generate Renter Market Graph</h2>
+    <form action="/renter_market_graph" method="POST">
+        <label for="state">State:</label>
+        <select name="state" id="state" required>
+            <option value="">Select State</option>
+            {% for state in states %}
+                <option value="{{ state }}">{{ state }}</option>
+            {% endfor %}
+        </select>
+
+        <label for="county">County:</label>
+        <input type="text" id="county" name="county" placeholder="Enter County Name" required>
+
+        <button type="submit">Generate Graph</button>
+    </form>
+
+
+</body>
+</html>
+

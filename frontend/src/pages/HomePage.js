@@ -1,109 +1,91 @@
-// frontend/src/pages/HomePage.js
 import React from 'react';
+import heroImage from '../assets/heroimg.jpg';
+import Footer from '../components/Footer';
+import { useNavigate } from 'react-router-dom';
+import { Link } from 'react-router-dom';
+
 
 const HomePage = () => {
+  const navigate = useNavigate();
+
+  const handleGetStarted = () => {
+    navigate('/location-based-insights')
+    window.scrollTo(0, 0);
+  };
+
   return (
     <div>
-      {/* Hero Section */}
-      <section className="bg-green-500 text-center text-white py-20">
-        <h1 className="text-5xl font-bold">HomeScope</h1>
-        <p className="mt-2 text-xl">Created by renters, for renters.</p>
-        <p className="mt-4 max-w-xl mx-auto">Get valuable insights into housing prices, trends, areas, and other data to help renters make informed decisions.</p>
-        <div className="mt-8">
-          <button className="bg-black text-white px-6 py-3 mr-4 rounded hover:bg-gray-800">Find Homes</button>
-          <button className="bg-black text-white px-6 py-3 rounded hover:bg-gray-800" onClick={() => window.location.href = '/renters-insight'}>Renters Insights</button>
-        </div>
-      </section>
+      <section className="hero flex flex-col md:flex-row items-center justify-between bg-green-700 py-20 min-h-[550px] text-white px-6 sm:px-10">
+    {/* Left Side*/}
+    <div className="text-center md:text-left md:w-1/2">
+      <h1 className="text-5xl sm:text-6xl md:text-7xl font-bold mb-8">HomeScope</h1>
+      <p className="mt-4 text-lg sm:text-xl md:text-2xl max-w-md mx-auto md:mx-0">
+        Moving and relocating is hard. We help make your search a little easier.
+      </p>
+      <div className="mt-12 flex flex-col md:flex-row items-center md:items-start">
+        <button
+          className="bg-black text-white px-6 py-3 mb-4 md:mb-0 md:mr-4 rounded hover:bg-gray-800"
+          onClick={() => window.location.href = '/market-page'}
+        >
+          Market Overview
+        </button>
+        <button
+          className="bg-black text-white px-6 py-3 rounded hover:bg-gray-800"
+          onClick={() => window.location.href = '/location-based-insights'}
+        >
+          Location-based Insights
+        </button>
+      </div>
+    </div>
+    <div className="mt-10 md:mt-0 md:w-1/2">
+      <img
+        src={heroImage}
+        alt="World Map with Pins in It"
+        className="rounded-lg shadow-lg mx-auto w-3/4 md:w-full"
+      />
+    </div>
+  </section>
 
-   {/* Map Visualization */}
-<section className="bg-white py-10">
-  <div className="container mx-auto">
-    <iframe 
-      src="/pennsylvania_demographics_embed.html" 
-      width="65%" 
-      height="500" 
-      className="mx-auto rounded-lg shadow-lg" 
-      style={{ border: 'none' }} 
-      title="Pennsylvania Demographics Map">
-    </iframe>
-    <p className="text-center mt-4 text-lg">Visualize housing market data on an interactive map for better understanding.</p>
+<section className="py-10 bg-white">
+  <div className="container mx-auto px-6 max-w-4xl">
+    <p className="text-left text-lg leading-relaxed text-gray-800">
+      We’re a group of five college seniors excited about the future, but we know graduating and starting a career often comes with the challenge of relocating. Moving to a new city or state can feel overwhelming, especially when you’re unfamiliar with the area, the people, or the housing market. That’s where HomeScope comes in.
+    </p>
+    <p className="text-left text-lg leading-relaxed text-gray-800 mt-6">
+      Our platform is designed to simplify your housing decisions by offering valuable insights into demographics, property types, ownership options, and housing market trends. Explore our interactive maps to compare data across counties or analyze housing costs over time with our easy-to-use line graphs. Whether you’re a policymaker researching different regions or someone searching for a new place to call home, HomeScope helps make those tough choices easier and more informed.
+    </p>
+    <p className="text-left text-lg leading-relaxed text-gray-800 mt-6">
+      In the future we're looking to expand our site's capabilities by adding real-time listing updates in your area, crime statistics, and neighborhood network graphs. If you have any other suggestions, feedback, or questions,{' '}
+      <Link to="/contact-us" className="text-blue-700 underline hover:text-blue-900">
+        please reach out
+      </Link>
+      !
+    </p>
   </div>
 </section>
 
-
-
-      {/* Featured Properties */}
-      <section className="py-12 bg-gray-100">
-        <div className="container mx-auto text-center">
-          <h2 className="text-3xl font-bold mb-8">Featured Properties Near You:</h2>
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-            {/* Property 1 */}
-            <div className="bg-white p-4 rounded-lg shadow-lg">
-              <img src="https://placehold.co/250x150" alt="Chicagoland Residence" className="mb-4 rounded-lg" />
-              <h3 className="font-bold text-lg">Chicagoland Residence</h3>
-              <p className="text-gray-700">$2000/month</p>
-            </div>
-            {/* Property 2 */}
-            <div className="bg-white p-4 rounded-lg shadow-lg">
-              <img src="https://placehold.co/250x150" alt="Green Meadows Villa" className="mb-4 rounded-lg" />
-              <h3 className="font-bold text-lg">Green Meadows Villa</h3>
-              <p className="text-gray-700">$1800/month</p>
-            </div>
-            {/* Property 3 */}
-            <div className="bg-white p-4 rounded-lg shadow-lg">
-              <img src="https://placehold.co/250x150" alt="Seaside Heights Penthouse" className="mb-4 rounded-lg" />
-              <h3 className="font-bold text-lg">Seaside Heights Penthouse</h3>
-              <p className="text-gray-700">$2500/month</p>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      {/* Market Trends */}
-      <section className="py-12 bg-white">
-        <div className="container mx-auto text-center">
-          <h2 className="text-3xl font-bold mb-4">Market Trends</h2>
-          <p>Key metrics to understand the housing market</p>
-          <button className="bg-black text-white px-6 py-3 rounded mt-6 hover:bg-gray-800">View Details</button>
-          <div className="mt-10">
-            <img src="https://placehold.co/800x400" alt="Price trends chart" className="mx-auto rounded-lg shadow-lg" />
-          </div>
-          <div className="mt-6 flex justify-center space-x-8 text-gray-700">
-            <div>
-              <p>Average Price</p>
-              <p className="font-bold">$XXX,XXX</p>
-            </div>
-            <div>
-              <p>Rent Price Index</p>
-              <p className="font-bold">XXX</p>
-            </div>
-            <div>
-              <p>Crime Rate</p>
-              <p className="font-bold">XXX</p>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      {/* Customer Testimonials */}
-      <section className="py-12 bg-gray-100">
-        <div className="container mx-auto text-center">
-          <h2 className="text-3xl font-bold mb-4">Customer Testimonials</h2>
-          <p>See what our customers have to say about their experiences.</p>
-        </div>
-      </section>
-
-      {/* Footer */}
-      <footer className="py-6 bg-white text-center text-gray-600">
-        <div className="container mx-auto">
-          <p className="mb-2">Contact Us</p>
-          <div className="flex justify-center space-x-4 mb-4">
-            <a href="#" className="hover:underline">Privacy Policy</a>
-            <a href="#" className="hover:underline">Terms of Service</a>
-          </div>
-        </div>
-      </footer>
+<div className="w-full bg-green-700 py-12">
+  <div className="container mx-auto px-6 max-w-4xl flex items-center justify-between text-white">
+    <div className="max-w-2xl">
+      <h1 className="text-2xl font-semibold">
+        Get started now and explore location-based insights with map and line graph visualizations
+      </h1>
     </div>
+
+    <div>
+      <button
+        onClick={handleGetStarted}
+        className="bg-black text-white px-6 py-2 rounded hover:bg-gray-800 text-base font-medium"
+      >
+        Get Started
+      </button>
+    </div>
+  </div>
+</div>
+
+      <Footer />
+      </div>
+      
   );
 };
 
